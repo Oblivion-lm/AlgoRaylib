@@ -1,0 +1,10 @@
+﻿main.obj : error LNK2019: symbole externe non résolu _InitWindow référencé dans la fonction _main
+main.obj : error LNK2019: symbole externe non résolu _WindowShouldClose référencé dans la fonction _main
+main.obj : error LNK2019: symbole externe non résolu _CloseWindow référencé dans la fonction _main
+main.obj : error LNK2019: symbole externe non résolu _ClearBackground référencé dans la fonction _main
+main.obj : error LNK2019: symbole externe non résolu _BeginDrawing référencé dans la fonction _main
+main.obj : error LNK2019: symbole externe non résolu _EndDrawing référencé dans la fonction _main
+main.obj : error LNK2019: symbole externe non résolu _SetTargetFPS référencé dans la fonction _main
+main.obj : error LNK2019: symbole externe non résolu _DrawText référencé dans la fonction _main
+raylib.lib : warning LNK4272: type d'ordinateur bibliothèque 'x64' en conflit avec le type d'ordinateur cible 'x86'
+C:\Users\l.zallio\Documents\RaylibTest\TestPixelShader\Debug\TestPixelShader.exe : fatal error LNK1120: 8 externes non résolus

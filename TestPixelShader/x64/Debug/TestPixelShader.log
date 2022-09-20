@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\l.zallio\Documents\GitProject\AlgoRaylib\TestPixelShader\Include\MyMath.hpp(10,44): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\l.zallio\Documents\GitProject\AlgoRaylib\TestPixelShader\Include\MyMath.hpp(193,25): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données
+C:\Users\l.zallio\Documents\GitProject\AlgoRaylib\TestPixelShader\Include\MyMath.hpp(385,28): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données
+C:\Users\l.zallio\Documents\GitProject\AlgoRaylib\TestPixelShader\Include\Interface.hpp(22,59): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  TestPixelShader.vcxproj -> C:\Users\l.zallio\Documents\GitProject\AlgoRaylib\x64\Debug\TestPixelShader.exe
